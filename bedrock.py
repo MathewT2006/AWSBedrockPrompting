@@ -3,7 +3,7 @@ import boto3
 import json
 
 # Set up the prompt and temperature.
-prompt = "make a list of the best cloud service providers ranked"
+prompt = input("Please enter your prompt: ")
 temperature = 0.9
 bedrock = boto3.client("bedrock-runtime")
 
