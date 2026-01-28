@@ -1,2 +1,2 @@
 # AWSBedrockPrompting
-Accessing AWS Bedrock using VS Code through the AWS SDK
+Accessing AWS Bedrock using an IDE through the AWS SDK
